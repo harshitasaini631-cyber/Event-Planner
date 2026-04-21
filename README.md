@@ -1,6 +1,6 @@
 # Eventify - Event Booking Landing Page
 
-##A responsive event booking landing page built using HTML and CSS, featuring a clean modern UI and mobile-friendly design.
+## A responsive event booking landing page built using HTML and CSS, featuring a clean modern UI and mobile-friendly design.
 
 ##  Live Demo
 
